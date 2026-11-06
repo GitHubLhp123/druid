@@ -1,4 +1,15 @@
-# Alibaba Druid
+两份 检查域名是否为 如果不是则提醒 切换到x2
+同时新开tab 迁移的操作手册 和x2
+x1里面每天都提醒一下
+同时为了防止盗用 请把这个提醒的功能进行内容加密 方法加密等，增大破解难度
+
+
+
+0 反向可逆
+初次进入 提醒2个游览器 和v
+1 练习过程中f5 和关闭tab 检测，但是也不要太多
+2 快捷键跳转打开url 同时本页面tab标签名变成xx 测试
+3 快捷键 快速切屏（展示picture）需上传 否则默认图片，上传的图片直接存储，同时本页面tab标签名变成xx 测试# Alibaba Druid
 
 [![Java CI](https://img.shields.io/github/actions/workflow/status/alibaba/druid/ci.yaml?branch=master&logo=github&logoColor=white)](https://github.com/alibaba/druid/actions/workflows/ci.yaml)
 [![Codecov](https://img.shields.io/codecov/c/github/alibaba/druid/master?logo=codecov&logoColor=white)](https://codecov.io/gh/alibaba/druid/branch/master)
